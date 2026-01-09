@@ -1,28 +1,35 @@
-# Order Management System
+# Order Management System 
 
-A clean and responsive Order Management System built using React.
+A clean and responsive Order Management System built using **React**.
 
-## Features
-- Dashboard with Total, Pending, Completed orders
-- Order listing with status indicators
+##  Features
+- Dashboard with Total, Pending, and Completed orders
+- Order listing with status badges
 - Separate pages for:
   - Dashboard
   - Add Order
   - Analytics
-- Order analytics using charts
+- Analytics visualization
 - Clean and minimal UI
-- React Router based navigation
 
-## Tech Stack
+##  Screenshots
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+
+### Add Order Page
+![Add Order](public/screenshots/add-order.png)
+
+### Analytics Page
+![Analytics](public/screenshots/analytics.png)
+
+##  Tech Stack
 - React
-- React Router DOM
-- Recharts
+- React Router
 - CSS
+- Recharts
 
-## Screenshots
-(Add screenshots here)
-
-## How to Run Locally
+##  How to Run Locally
 ```bash
 npm install
 npm start
